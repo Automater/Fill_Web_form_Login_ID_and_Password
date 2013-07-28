@@ -1,10 +1,11 @@
 ### Fill Web form, Login ID and Password Safely and Automatically ###
 
+![Alt text](http://173.0.133.251/images/GitHub/speeddial.jpg "Speed Dial")
+
 ![Alt text](http://173.0.133.251/images/GitHub/web-form-filler.jpg "Fill Web form, Login ID and Password Safely and Automatically")
 
 Securely store your name, address, email, login username and password, credit cards and other information.  Just a click and it will go to your desired webpage to fill the entire web forms automatically.  Saving yourself hours of needless typing!
 
-![Alt text](http://173.0.133.251/images/GitHub/speed-dial.jpg "Speed Dial")
 
 
 ### TESTING APPROACH ###
