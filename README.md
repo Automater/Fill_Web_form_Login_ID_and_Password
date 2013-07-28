@@ -11,7 +11,7 @@ Securely store your name, address, email, login username and password, credit ca
 ### TESTING APPROACH ###
 
 
-A.  Go to any website fo fill web form e.g. http://www.automationanywhere.com/download/freeTrial.htm
+A.  Go to any website that need to fill up a web form e.g. http://www.automationanywhere.com/download/freeTrial.htm
 
 ![Alt text](http://173.0.133.251/images/GitHub/webform.jpg "Website to fill form")
 
