@@ -11,9 +11,24 @@ Securely store your name, address, email, login username and password, credit ca
 ### TESTING APPROACH ###
 
 
-Script using AA script.
+A.  Go to any website fo fill web form e.g. http://www.automationanywhere.com/download/freeTrial.htm
 
-![Alt text](http://173.0.133.251/images/GitHub/FillWebFormScript.jpg "AA Ping script")
+![Alt text](http://173.0.133.251/images/GitHub/webform.jpg "Website to fill form")
+
+
+B.  Web form is filled automatically.
+
+![Alt text](http://173.0.133.251/images/GitHub/formfilled.jpg "Web form is filled automatically")
+
+
+C.  Access to restricted page after authentication.
+
+![Alt text](http://173.0.133.251/images/GitHub/successformfill.jpg "Access to authenticated page")
+
+
+D.  Modifications to the scripts may be made easily.
+
+![Alt text](http://173.0.133.251/images/GitHub/FillWebFormScript.jpg "Modifications to the scripts")
 
 
 
