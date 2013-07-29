@@ -30,6 +30,8 @@ D.  Modifications to the scripts may be made easily.
 
 ![Alt text](http://173.0.133.251/images/GitHub/FillWebFormScript.jpg "Modifications to the scripts")
 
+<blockquote>Automation Anywhere scripting is easy to learn and the learning curve of the person from programming background such as VB, C, C++, java, .Net, etc. will be much smaller.</blockquote>
+
 
 
 ### THIRD-PARTY REQUIREMENTS ###
@@ -46,7 +48,6 @@ You will be able to see the saved script in the Automation Anywhere's task pane.
 
 ![Alt text](http://173.0.133.251/images/GitHub/fillwebformtask.jpg "Saved task")
 
-<blockquote>Automation Anywhere scripting is easy to learn and the learning curve of the person from programming background such as VB, C, C++, java, .Net, etc. will be much smaller and can trained faster.</blockquote>
 
 
 #### Methodology ####
